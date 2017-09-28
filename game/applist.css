@@ -1,0 +1,156 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	}	
+
+.nav{
+	width:100%;
+	height:120px;
+	background-color:rgba(0,0,0,0.80);
+	position:fixed;
+	margin-top:0px;
+	padding:0px;
+	z-index:1;
+	}
+
+.logo_jabi{
+	margin-top:37.5px;
+	margin-left:50px;
+	float:left;
+	}
+	
+.menu{
+	float:left;
+	display:block;
+	height:120px;
+	margin:0px;
+	}
+	
+.list{
+	color:rgba(255,255,255,1.00);
+	list-style:none;
+	display:block;
+	line-height:111px;
+	font-size:50px;
+	padding:0px;
+	float:left;
+	margin-left:10px;
+	margin-right:40px;
+	}
+	
+.list_a{
+	display:block;
+	text-decoration:none;
+	color:rgba(255,255,255,1.00);
+	}
+	
+#select{
+	color:#ffe011;
+	border-bottom:solid 10px  #ffe011 ;
+	margin-bottom:10px;
+	}
+	
+.space{
+	width:100%;
+	height:110px;}
+	
+.tip{
+	display:block;
+	margin-top:50px;
+	margin-left:50px;
+	margin-right:50px;
+	background-color:#fafafa;
+	height:100px;
+	line-height:100px;
+	text-align:center;
+	border-radius:100px;
+	color:#000000;
+	font-size:40px;
+	padding-left:10px;
+	padding-right:10px;
+	font-weight:bold;
+	}
+	
+ul{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	}
+	
+li{
+	padding:0px;
+	margin-top:100px;
+	margin-left:50px;
+	margin-right:50px;
+	list-style:none;
+	border:#EAEAEA 1px solid;
+	background:#f3f3f3;
+	border-radius:30px;
+	}
+	
+.tit{
+	height:130px;
+	display:block;
+	font-size:45px;
+	line-height:130px;
+	padding-left:50px;
+	margin:0px;
+	font-weight:bold;
+	background:#Fafafa;
+	border-top-left-radius:31px;
+	border-top-right-radius:31px;
+	}
+
+.ms{
+	display:block;
+	padding-left:50px;
+	font-size:30px;
+	padding-top:20px;
+	padding-bottom:30px;
+	padding-right:50px;
+	color:#535353;
+	}
+	
+.get{
+	border-radius:50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	
+	display:block;
+	text-align:center;
+	font-size:40px;
+	color:#000;
+	text-decoration:none;
+	height:100px;
+	background:rgba(255,255,255,0.50);
+	line-height:100px;
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	margin-top:20px;
+	border:1px solid #000;
+	}
+	
+#link{
+	color:#42ACEB;}
+	
+.bottom{
+	width:100%;
+	display:block;
+	text-align:center;
+	background:rgba(0,0,0,1.00);
+	height:150px;
+	margin-top:120px;
+	color:#FFFFFF;
+	line-height:150px;
+	font-size:50px;
+	}
+

@@ -8,7 +8,7 @@ nohup python movie.py > ./mc.log 2>&1 &
 ```
 ## 小程序开发工具
 
-服务端启动后，小程序开发工具的项目movieCalendar
+服务端启动后，小程序开发工具打开movieCalendar项目
 
 ## MC电影日历
 ![](https://github.com/lyln/MyWeb/blob/master/mc/MC电影日历.jpg)
